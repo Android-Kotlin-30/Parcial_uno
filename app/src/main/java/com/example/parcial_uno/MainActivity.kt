@@ -1,5 +1,5 @@
 // -------------------------------------------------------------
-// MainActivity.kt – Versión “simple” (sin KeyboardOptions)
+// MainActivity.kt – Parcial_uno
 // -------------------------------------------------------------
 package com.example.parcial_uno
 
